@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "899097908165",
+    "project_id": "final-task-planner",
+    "storage_bucket": "final-task-planner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899097908165:android:035d169eafb2606a30b1ac",
+        "android_client_info": {
+          "package_name": "com.example.taskplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899097908165-4hidccbk6cfaqvgj4d4vp3a0cuk7o1qb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskplanner",
+            "certificate_hash": "a4862001330fc3d6a3dbb4f70d26ad60edaf37ca"
+          }
+        },
+        {
+          "client_id": "899097908165-tmif6tasktmpvn83pstg46aokhkgh0uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyXZU46NS3DnkvxtrRiWB8kyFL1irf0jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899097908165-tmif6tasktmpvn83pstg46aokhkgh0uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
